@@ -9,7 +9,7 @@ Jogo de campo minado desenvolvido em Java, com interface através do console.
 ## Como usar 📓
 - Clone este repositório para sua máquina local.
    ```bash
-   git clone https://github.com/seu-usuario/campo-minado-java.git
+   git clone https://github.com/lufecrx/campo-minado-console.git
 - Abra o projeto em sua IDE Java preferida.
 - Compile e execute o arquivo .java.
 
