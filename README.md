@@ -17,7 +17,7 @@ Jogo de campo minado desenvolvido em Java, com interface através do console.
 - Java
 
 ## Veja o jogo em ação: 
-// TODO: colocar gif do jogo
+![GIF do jogo](https://github.com/lufecrx/campo-minado-console/blob/main/gamepreview.gif)
 
 ## Licença 👽
 Este projeto está sob a licença MIT.
